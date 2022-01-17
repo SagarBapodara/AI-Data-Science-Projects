@@ -1,5 +1,5 @@
-# ML-DL-CV-Projects
-Repository of all Machine Learning, Deep Learning &amp; Computer Vision projects made by [Sagar Bapodara](https://github.com/SagarBapodara)
+# ML-DL-CV-DS-Projects
+Repository of all Machine Learning, Deep Learning, Computer Vision & Data Science projects made by [Sagar Bapodara](https://github.com/SagarBapodara)
 
 ## Find the list of projects : 
 - [Movie Recommendation System + Web App](https://github.com/SagarBapodara/movie-recommender) (_ML_)
