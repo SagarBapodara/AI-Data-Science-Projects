@@ -16,4 +16,6 @@ Thanks for looking into this repository. Feel free to share your reviews/suggest
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Ending Credits
+- [Email](mailto:sagarbapodara2000@gmail.com)
 - @Author : [Sagar Bapodara](https://www.linkedin.com/in/sagar-bapodara/)
+
