@@ -18,5 +18,4 @@ Thanks for looking into this repository. Feel free to share your reviews/suggest
 ## Ending Credits
 - [Email](mailto:sagarbapodara2000@gmail.com)
 - @Author : [Sagar Bapodara](https://www.linkedin.com/in/sagar-bapodara/)
-- Please feel free to reach out to me incase any queries. 
 
