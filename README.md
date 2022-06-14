@@ -2,6 +2,9 @@
 Repository of all Machine Learning, Deep Learning, Computer Vision & Data Science projects created by [Sagar Bapodara](https://github.com/SagarBapodara)
 
 ## Find the list of projects : 
+- Real-Time Emergency Vehicle Siren Classification + Hardware Setup (_Machine Learning, Audio & Signal Processing, Embedded Systems_)
+  - [Video Link 1: Class-Wise](https://youtu.be/BU2QcO9rdwo)
+  - [Video Link 2 : Mix Sounds](https://youtu.be/biVnwWRy6jA)
 - [Coursera Course Recommendation System + Web App](https://github.com/SagarBapodara/Coursera-Course-Recommendation-System) (_Recommendation System_)
 - [Movie Recommendation System + Web App](https://github.com/SagarBapodara/movie-recommender) (_Recommendation System_)
 - [Parkinson Disease Detection](https://github.com/SagarBapodara/Parkison_Disease_Detection_ML) (_Machine Learning_)
