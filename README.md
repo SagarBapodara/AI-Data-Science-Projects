@@ -6,7 +6,7 @@ Repository of all Machine Learning, Deep Learning, Computer Vision & Data Scienc
   - [Video Link 1: Class-Wise](https://youtu.be/BU2QcO9rdwo)
   - [Video Link 2 : Mix Sounds](https://youtu.be/biVnwWRy6jA)
 - [Coursera Course Recommendation System + Web App](https://github.com/SagarBapodara/Coursera-Course-Recommendation-System) (_NLP , Recommendation System_)
-- [Movie Recommendation System + Web App](https://github.com/SagarBapodara/movie-recommender) (_NLP , Recommendation System_)
+- [Movie Recommendation System + Web App](https://github.com/SagarBapodara/Movie-Recommendation-System) (_NLP , Recommendation System_)
 - [Parkinson Disease Detection](https://github.com/SagarBapodara/Parkison-Disease-Detection-using-Machine-Learning) (_Machine Learning_)
 - [Real Time Pedestrian and Vehicle Detection + Web App](https://github.com/SagarBapodara/Real-Time-Pedestrian-and-Vehicle-Detection-using-Computer-Vision) (_Computer Vision, Image Processing_)
 
